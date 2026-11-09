@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Markdown personal settings
+/markdown.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Arquivos compilados do Java (Bytecodes)
+*.class
+
+# Pastas geradas pelo processo de build
+out/
+bin/
+target/
+
+# Configurações do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos do sistema operacional
+.DS_Store
