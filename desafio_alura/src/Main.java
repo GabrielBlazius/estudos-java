@@ -53,7 +53,7 @@ public class Main{
                     valorSaque = scanner.nextInt();
 
                     if (valorSaque > saldo){
-                        System.out.println("Não há saldo suficiente para essa transferência!");
+                        System.out.println("Não há saldo suficiente para essa transferência!\n");
                     }
                     else {
                         saldo -= valorSaque;
